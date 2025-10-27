@@ -44,7 +44,7 @@
     "eslint-config-next": "13.4.9",
     "formidable": "^3.5.1",
     "framer-motion": "^10.16.4",
-    "jimp": "^0.22.10",
+    "jimp": "^1.0.2",
     "jsdom": "^22.1.0",
     "lottie-web": "^5.12.2",
     "micro": "^10.0.1",
