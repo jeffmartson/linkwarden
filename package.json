@@ -34,7 +34,7 @@
     "axios": "^1.5.1",
     "bcrypt": "^5.1.0",
     "bootstrap-icons": "^1.11.2",
-    "colorthief": "^2.4.0",
+    "colorthief": "^2.6.0",
     "concurrently": "^8.2.2",
     "crypto-js": "^4.2.0",
     "csstype": "^3.1.2",
